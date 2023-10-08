@@ -2,7 +2,7 @@
 -   2 - Open table plus
 -   3 - Create new a database in table plus
 -   4 - Right click Tables => import => From SQL dump.. => select file **db_appfood.sql**
--   5 - Import file **Sequelize_app_food.postman_collection.json**
+-   5 - Import file **Sequelize_app_food.postman_collection.json** in Postman
 
 # XỬ LÝ LIKE NHÀ HÀNG
 
